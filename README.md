@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <href="https://www.linkedin.com/in/nuh-akmal-mohammad-3a6297276/"img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <href="https://www.linkedin.com/in/nuh-akmal-mohammad-3a6297276/" img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
